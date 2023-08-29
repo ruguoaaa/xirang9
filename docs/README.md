@@ -62,7 +62,7 @@ features:
   - icon: repo
     title: 道藏
     details: 正统道藏洞神部，正统道藏洞玄部，正统道藏洞真部，正统道藏太平部，正统道藏太清部，正统道藏太玄部，正统道藏续道藏，正统道藏正一部，藏外。
-    link: https://ruguoaaa.github.io/xirang9/道藏/
+    link: /道藏/
 
 
 copyright: false
@@ -70,16 +70,19 @@ footer: 使用<a href="https://theme-hope.vuejs.press/" target="_blank">VuePress
 ---
 
 ----
+
 # 简介
+
 这是基于VuePress Theme Hope的中国古代文化的文档整理系统。
 
 ### 目前的计划：
+
 * 基于[殆知阁古代文献](https://github.com/garychowcmu/daizhigev20), [中医药古籍文本，近700项](https://github.com/xiaopangxia/TCM-Ancient-Books), [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry/)等等文档库，整理出一套中华古代文档的markdown格式文档库。
 * 整合一些工具库，让文档库在显示的时候，能够对字展示笔顺（如：[汉字笔顺](https://github.com/chanind/hanzi-writer)）；显示注音（如：[🇨🇳 汉字拼音 ➜ hàn zì pīn yīn](https://github.com/hotoo/pinyin)）。
 * 目前的计划是使用静态文档系统，后期如果条件允许的话，系统做成动态文档系统，方便用户共同学习、共同整理文档。
 
-
 ### 整理完成情况：
+
   * [x] 诗藏  100%
   * [x] 医藏  1%
   * [ ] 易藏
