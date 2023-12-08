@@ -1,11 +1,9 @@
 ---
 title: 道藏
 index: false
-icon: editor
+icon: folder
 category:
-  - 使用指南
+  - 道藏
 ---
 
-## 目录
-
-内容整理中。。。
+<AutoCatalog  />
