@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-41f22d00.js";const c={},s=o("p",null,"太上元始天尊说孔雀经白文 　　知磬举 　　长生保命天尊， 　　大慈悲长生保命天尊。 　　明念。 　　大哉玄妙洞灵章，万劫修来孔雀王。 　　元始说经真教主，广演妙法为敷扬。 　　大慈悲长生保命天尊。 　　众□。",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(c,[["render",r],["__file","太上元始天尊说孔雀经白文.html.vue"]]);export{m as default};
